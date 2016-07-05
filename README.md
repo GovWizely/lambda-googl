@@ -20,7 +20,7 @@ Then make sure you have your [Google API Key](https://developers.google.com/url-
 
 ## Getting Started
 
-	git clone git@github.com:loren/lambda-googl.git
+	git clone git@github.com:GovWizely/lambda-googl.git
 	cd lambda-googl
 	mkvirtualenv -r requirements.txt lambda-googl
 
